@@ -1,4 +1,3 @@
-# ChatRecordVisualization
 <h1>ChatRecordVisualization</h1>
 <h2>author : Zhou Jie </h2><br>
 <h2>json export : D:\data.json </h2><br>
