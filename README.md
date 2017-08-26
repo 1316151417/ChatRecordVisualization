@@ -1,2 +1,4 @@
-# ChatRecordVisualization
-聊天记录可视化，形象地展示群内用户活跃程度、交互信息。
+author : Zhou Jie
+json export : D:\data.json
+show :
+![image](https://github.com/1316151417/ChatRecordVisualization/resource/show.jpg)
